@@ -25,7 +25,6 @@ sendBtn.addEventListener('click', (e) => {
         ❤️<br><br>
         Your feedback really matters to us! <br><br>
         
-        Feedback : ${selectedEmoji}<br><br>
         We'll use your feedback to improve the products from phiUture.
     `
 })
